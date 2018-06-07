@@ -4,6 +4,12 @@
   "description": "Display json in vue with indent and highlight",
   "author": "chenlong <woodccc@foxmail.com>",
   "main": "./src/JsonDisplayer.vue",
+  "keywords": [
+    "json",
+    "vue",
+    "syntax highlight.",
+    "display"
+  ],
   "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
